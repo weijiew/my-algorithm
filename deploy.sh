@@ -17,7 +17,7 @@ git commit -m "🚀 init"
 # npm cache clear --force
 # npm install (yarn install)
 
-git push -f git@github.com:weijiew/codestep.git master
+git push -f git@github.com:weijiew/my-alg.git master
 
 # 生成静态文件
 npm run docs:build
@@ -30,6 +30,6 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:weijiew/codestep.git master:gh-pages
+git push -f git@github.com:weijiew/my-alg.git master:gh-pages
 
 cd -

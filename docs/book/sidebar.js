@@ -1,20 +1,31 @@
 module.exports = [
   {
-    title: '👕 双指针',
+    title: '🍓 《算法4》总结',
     children: [
-      'double-ptr/ch0',
+      'algs4/ch0',
+      'algs4/ch1',
+      'algs4/ch2',
+      'algs4/ch3',
+      'algs4/ch4'
     ]
   },
   {
-    title: '🚀 算法',
+    title: '👕 Leetcode 刷题笔记',
     children: [
-      'alg/ch0',
-      'alg/ch1',
-      'alg/ch2',
-      'alg/lc',
-      'alg/algs4',
-      'alg/pat',
-      'alg/offer'
+      'lc/ch0',
+      'lc/lc-345'
+    ]
+  },
+  {
+    title: '🚀 剑指 offer ',
+    children: [
+      'offer/ch0',
+    ]
+  },
+  {
+    title: '🌠 PAT',
+    children: [
+      'pat/ch0',
     ]
   }
 ]
