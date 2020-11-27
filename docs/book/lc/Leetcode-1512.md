@@ -1,6 +1,8 @@
 # 1512. 好数对的数目
 
-[Leetcode-1152](https://leetcode.com/problems/number-of-good-pairs/) / [力扣-1152](https://leetcode-cn.com/problems/number-of-good-pairs/)
+[Leetcode-1512](https://leetcode.com/problems/number-of-good-pairs/) / [力扣-1512](https://leetcode-cn.com/problems/number-of-good-pairs/)
+
+暴力解法：
 
 ```cpp
 class Solution {
@@ -18,6 +20,8 @@ public:
     }
 };
 ```
+
+根据数据范围的特性来解：
 
 因为数据的范围是 1 - 100 ，所以定义一个长度为 100 的数组，下标代表每个数字，而数组中存的值代表该数字出现的次数。
 
@@ -40,3 +44,5 @@ public:
     }
 };
 ```
+
+这种解法挺有意思的，适合数据范围不大的情况。

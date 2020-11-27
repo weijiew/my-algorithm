@@ -1,17 +1,15 @@
 # 数组
 
-|               题目                | 难度  |                         总结                         |
-| :-------------------------------: | :---: | :--------------------------------------------------: |
-| [Leetcode-1480](Leetcode-1480.md) |   1   |               在原数组上简单遍历即可。               |
-| [Leetcode-1152](Leetcode-1152.md) |   1   |              暴力写很简单，换一种思路！              |
-| [Leetcode-1470](Leetcode-1470.md) |   1   |                    简单题，练手。                    |
-| [Leetcode-1431](Leetcode-1431.md) |   1   |                    简单题，练手。                    |
-|  [Leetcode-867](Leetcode-867.md)  |   1   |               矩阵转置，注意行列关系。               |
-|  [Leetcode-283](Leetcode-283.md)  |   1   |               将数组中的零移动到末尾。               |
-|  [Leetcode-167](Leetcode-167.md)  |   1   |          因为数组有序，双指针头尾索引即可。          |
-|    [Leetcode-1](Leetcode-1.md)    |   2   |     与上一题不同的是数组无序，并且索引从零开始。     |
-|   [Leetcode-66](Leetcode-66.md)   |   2   | 这道题需要好好思考，想明白就很简单了，注意分类讨论。 |
-|  [Leetcode-633](Leetcode-633.md)  |   2   |                     双指针遍历。                     |
+* [Leetcode-1480](Leetcode-1480.md) 简单遍历即可！
+* [Leetcode-1512](Leetcode-1512.md) 暴力很简单。
+* [Leetcode-1470](Leetcode-1470.md) 暴力。
+* [Leetcode-867](Leetcode-867.md)   矩阵转置，注意行列关系。
+* [Leetcode-283](Leetcode-283.md)     将数组中的零移动到末尾。 
+* [Leetcode-1431](Leetcode-1431.md) 
+* [Leetcode-167](Leetcode-167.md)   因为数组有序，双指针头尾索引即可。         
+* [Leetcode-1](Leetcode-1.md)      与上一题不同的是数组无序，并且索引从零开始。    
+* [Leetcode-66](Leetcode-66.md)   这道题需要好好思考，想明白就很简单了，注意分类讨论。
+* [Leetcode-633](Leetcode-633.md)          双指针遍历。
 |  [Leetcode-345](Leetcode-345.md)  |   2   |      待条件的反转字符串，可以用函数来设置条件。      |
 |   [Leetcode-88](Leetcode-88.md)   |   2   |           归并排序的味道，注意归并的方式。           |
 |  [Leetcode-680](Leetcode-680.md)  |   3   |         待条件的判断回文字符，需要仔细思考。         |

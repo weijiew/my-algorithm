@@ -2,6 +2,26 @@
 
 [Leetcode-1470](https://leetcode.com/problems/shuffle-the-array/) / [力扣-1470](https://leetcode-cn.com/problems/shuffle-the-array/)
 
+## 思想
+
+
+## Java
+```java
+class Solution {
+    public int[] shuffle(int[] nums, int n) {
+        int [] t = new int[nums.length];
+        int i = 0;
+        for (int ii = 0; ii < n; ii++) {
+            t[i++] = nums[ii];
+            t[i++] = nums[ii + n];
+        }
+        return t;
+    }
+}
+```
+
+## C++
+
 ```cpp
 class Solution {
 public:
