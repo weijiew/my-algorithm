@@ -1,5 +1,5 @@
 # 数组
-
+ 
 * [Leetcode-1480](Leetcode-1480.md) 简单遍历即可！
 * [Leetcode-1512](Leetcode-1512.md) 暴力很简单。
 * [Leetcode-1470](Leetcode-1470.md) 暴力。
