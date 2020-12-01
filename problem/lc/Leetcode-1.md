@@ -1,13 +1,5 @@
 # 1. 两数之和
 
-[Leetcode-1](https://leetcode.com/problems/two-sum/submissions/) / [力扣-1](https://leetcode-cn.com/problems/two-sum/submissions/)
-
-先暴力写一遍。两层循环枚举所有情况。时间复杂度是 
-
-* `vector<int> a` 表示声明一个名为 a 的动态数组。
-* `a.push_back()` 表示向动态数组 a 中存入变量。
-* `num.size()` 返回一个整型的变量，表示动态数组的长度。
-
 ```cpp
 class Solution {
 public:

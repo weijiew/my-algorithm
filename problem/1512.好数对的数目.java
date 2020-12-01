@@ -1,25 +1,26 @@
-# 1512. 好数对的数目
+/*
+ * @lc app=leetcode.cn id=1512 lang=java
+ *
+ * [1512] 好数对的数目
+ */
 
-[Leetcode-1512](https://leetcode.com/problems/number-of-good-pairs/) / [力扣-1512](https://leetcode-cn.com/problems/number-of-good-pairs/)
-
-暴力解法：
-
-```cpp
+// @lc code=start
 class Solution {
-public:
-    int numIdenticalPairs(vector<int>& nums) {
-        int ans = 0;
-        for (int i = 0; i < nums.size() - 1; i++) {
-            for (int j = i+1; j < nums.size(); j++) {
-                if (nums[i] == nums[j]) {
-                    ans++;
+    public int numIdenticalPairs(int[] nums) {
+        int k = 0;
+        for (int i = 0; i < nums.length - 1;i++) {
+            for (int j = i+1;j < nums.length;j++) {
+                if (nums[j] == nums[i]) {
+                    k++;
                 }
             }
         }
-        return ans;
+        return k;
     }
-};
-```
+}
+// @lc code=end
+
+/*
 
 根据数据范围的特性来解：
 
@@ -46,3 +47,5 @@ public:
 ```
 
 这种解法挺有意思的，适合数据范围不大的情况。
+
+ */
