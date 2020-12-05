@@ -11,17 +11,20 @@ class Solution {
         int j = s.length() - 1;
         while (i < j) {
             if (s.charAt(i) != s.charAt(j)) {
-                return (again(s,i+1,j) || again(s,i,j-1));
+                return temp(s,i + 1, j) || temp(s,i,j - 1); 
             }
-            i++ ; j--;
+            i++;
+            j--;
         }
         return true;
     }
-    public boolean again(String s ,int i, int j) {
-        while(i < j) {
-            if(s.charAt(i++) != s.charAt(j--)) {
+    public boolean temp(String s,int i,int j) {
+        while (i < j) {
+            if (s.charAt(i) != s.charAt(j)) {
                 return false;
             }
+            i++;
+            j--;
         }
         return true;
     }
