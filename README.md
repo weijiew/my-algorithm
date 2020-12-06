@@ -6,14 +6,15 @@
 ## Leetcode
 ### 数组
 
-|                      题目                       | 语言  |
-| :---------------------------------------------: | :---: |
-|     [1470. 重新排列数组](Leetcode/1470.md)      |       |
-|         [1. 两数之和](Leetcode/0001.md)         |       |
-|          [66. 加一](Leetcode/0066.md)           |       |
-| [345. 反转字符串中的元音字母](Leetcode/0345.md) |       |
-|    [🎯88. 合并两个有序数组](Leetcode/0088.md)    |       |
-|   [🎯680. 验证回文字符串 Ⅱ](Leetcode/0680.md)    |       |
+|                      题目                       |   语言   |
+| :---------------------------------------------: | :------: |
+|     [1470. 重新排列数组](Leetcode/1470.md)      |   Java   |
+|       [🎯118. 杨辉三角](Leetcode/0118.md)        |   Java   |
+|         [1. 两数之和](Leetcode/0001.md)         | C++,Java |
+|          [66. 加一](Leetcode/0066.md)           | C++,Java |
+| [345. 反转字符串中的元音字母](Leetcode/0345.md) |   Java   |
+|    [🎯88. 合并两个有序数组](Leetcode/0088.md)    | C++,Java |
+|   [🎯680. 验证回文字符串 Ⅱ](Leetcode/0680.md)    | C++,Java |
 
 ### 链表
 
@@ -51,14 +52,14 @@
 
 |                        题目                         |   语言   |
 | :-------------------------------------------------: | :------: |
-|           [1. 两数之和](Leetcode/0001.md)           | CPP,Java |
-| [167. 两数之和 II - 输入有序数组](Leetcode/0167.md) | CPP,Java |
-|         [633. 平方数之和](Leetcode/0633.md)         | CPP,Java |
+|           [1. 两数之和](Leetcode/0001.md)           | C++,Java |
+| [167. 两数之和 II - 输入有序数组](Leetcode/0167.md) | C++,Java |
+|         [633. 平方数之和](Leetcode/0633.md)         | C++,Java |
 |           [283. 移动零](Leetcode/0283.md)           |   Java   |  |
 |   [345. 反转字符串中的元音字母](Leetcode/0345.md)   |   Java   |
-|     [ 680. 验证回文字符串 Ⅱ](Leetcode/0680.md)      | CPP,Java |
-|      [88. 合并两个有序数组](Leetcode/0088.md)       | CPP,Java |
-|          [141. 环形链表](Leetcode/0141.md)          | CPP,Java |
+|     [ 680. 验证回文字符串 Ⅱ](Leetcode/0680.md)      | C++,Java |
+|      [88. 合并两个有序数组](Leetcode/0088.md)       | C++,Java |
+|          [141. 环形链表](Leetcode/0141.md)          | C++,Java |
 
 # 递归
 
@@ -115,21 +116,21 @@
 
 |              题目               | 语言  |
 | :-----------------------------: | :---: |
-| [Leetcode-144](Leetcode-144.md) |  cpp  |
-| [Leetcode-145](Leetcode-145.md) |  cpp  |
-|  [Leetcode-94](Leetcode-94.md)  |  cpp  |
-| [Leetcode-637](Leetcode-637.md) |  cpp  |
-| [Leetcode-513](Leetcode-513.md) |  cpp  |
-| [Leetcode-100](Leetcode-100.md) |  cpp  |
-| [Leetcode-101](Leetcode-101.md) |  cpp  |
-| [Leetcode-543](Leetcode-543.md) |  cpp  |
-| [Leetcode-226](Leetcode-226.md) |  cpp  |
-| [Leetcode-617](Leetcode-617.md) |  cpp  |
-| [Leetcode-112](Leetcode-112.md) |  cpp  |
-| [Leetcode-637](Leetcode-637.md) |  cpp  |
-| [Leetcode-513](Leetcode-513.md) |  cpp  |
-| [Leetcode-617](Leetcode-617.md) |  cpp  |
-| [Leetcode-617](Leetcode-617.md) |  cpp  |
+| [Leetcode-144](Leetcode-144.md) |  C++  |
+| [Leetcode-145](Leetcode-145.md) |  C++  |
+|  [Leetcode-94](Leetcode-94.md)  |  C++  |
+| [Leetcode-637](Leetcode-637.md) |  C++  |
+| [Leetcode-513](Leetcode-513.md) |  C++  |
+| [Leetcode-100](Leetcode-100.md) |  C++  |
+| [Leetcode-101](Leetcode-101.md) |  C++  |
+| [Leetcode-543](Leetcode-543.md) |  C++  |
+| [Leetcode-226](Leetcode-226.md) |  C++  |
+| [Leetcode-617](Leetcode-617.md) |  C++  |
+| [Leetcode-112](Leetcode-112.md) |  C++  |
+| [Leetcode-637](Leetcode-637.md) |  C++  |
+| [Leetcode-513](Leetcode-513.md) |  C++  |
+| [Leetcode-617](Leetcode-617.md) |  C++  |
+| [Leetcode-617](Leetcode-617.md) |  C++  |
 
 
 # BST
@@ -140,21 +141,21 @@
 
 |              题目               | 难度  | 语言  |
 | :-----------------------------: | :---: | :---: |
-| [Leetcode-667](Leetcode-669.md) |   💗   |  cpp  |
-| [Leetcode-230](Leetcode-230.md) |   💗   |  cpp  |
-| [Leetcode-538](Leetcode-538.md) |   💗   |  cpp  |
-| [Leetcode-235](Leetcode-235.md) |   💗   |  cpp  |
-| [Leetcode-236](Leetcode-236.md) |   💗   |  cpp  |
-| [Leetcode-108](Leetcode-108.md) |   💗   |  cpp  |
-| [Leetcode-109](Leetcode-109.md) |   💗   |  cpp  |
-| [Leetcode-653](Leetcode-653.md) |   💗   |  cpp  |
-| [Leetcode-530](Leetcode-530.md) |   💗   |  cpp  |
-| [Leetcode-501](Leetcode-501.md) |   💗   |  cpp  |
-| [Leetcode-669](Leetcode-669.md) |   💗   |  cpp  |
+| [Leetcode-667](Leetcode-669.md) |   💗   |  C++  |
+| [Leetcode-230](Leetcode-230.md) |   💗   |  C++  |
+| [Leetcode-538](Leetcode-538.md) |   💗   |  C++  |
+| [Leetcode-235](Leetcode-235.md) |   💗   |  C++  |
+| [Leetcode-236](Leetcode-236.md) |   💗   |  C++  |
+| [Leetcode-108](Leetcode-108.md) |   💗   |  C++  |
+| [Leetcode-109](Leetcode-109.md) |   💗   |  C++  |
+| [Leetcode-653](Leetcode-653.md) |   💗   |  C++  |
+| [Leetcode-530](Leetcode-530.md) |   💗   |  C++  |
+| [Leetcode-501](Leetcode-501.md) |   💗   |  C++  |
+| [Leetcode-669](Leetcode-669.md) |   💗   |  C++  |
 
 # Trie
 
 |              题目               | 难度  | 语言  |
 | :-----------------------------: | :---: | :---: |
-| [Leetcode-208](Leetcode-208.md) |   💗   |  cpp  |
-| [Leetcode-677](Leetcode-677.md) |   💗   |  cpp  |
+| [Leetcode-208](Leetcode-208.md) |   💗   |  C++  |
+| [Leetcode-677](Leetcode-677.md) |   💗   |  C++  |
