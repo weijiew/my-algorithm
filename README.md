@@ -63,22 +63,22 @@
 # 递归
 
 
-|                     题目                      | 语言  |
-| :-------------------------------------------: | :---: |
-|   [🎯🎯🎯🎯🎯344. 反转字符串](Leetcode/0344.md)    | Java  |
-| [🎯🎯🎯🎯🎯21. 合并两个有序链表](Leetcode/0021.md) |       |
-|        [Leetcode-24](Leetcode/0024.md)        |       |
-|        [Leetcode-104](Leetcode-104.md)        |       |
-|        [Leetcode-110](Leetcode-110.md)        |       |
-|        [Leetcode-543](Leetcode-543.md)        |       |
-|        [Leetcode-226](Leetcode-226.md)        |       |
-|        [Leetcode-617](Leetcode-617.md)        |       |
-|        [Leetcode-112](Leetcode-112.md)        |       |
-|        [Leetcode-437](Leetcode-437.md)        |       |
-|        [Leetcode-101](Leetcode-101.md)        |       |
-|        [Leetcode-111](Leetcode-111.md)        |       |
-|        [Leetcode-404](Leetcode-404.md)        |       |
-|        [Leetcode-687](Leetcode-687.md)        |       |
+|                        题目                        |   语言    |
+| :------------------------------------------------: | :-------: |
+|      [🎯🎯🎯🎯🎯344. 反转字符串](Leetcode/0344.md)      |   Java    |
+|   [🎯🎯🎯🎯🎯21. 合并两个有序链表](Leetcode/0021.md)    |           |
+| [🎯🎯🎯🎯🎯 24. 两两交换链表中的节点](Leetcode/0024.md) | C++，Java |
+|     [104. 二叉树的最大深度](Leetcode/0104.md)      |   Java    |
+|      [🎯🎯🎯🎯🎯110. 平衡二叉树](Leetcode/0110.md)      |   Java    |
+|          [Leetcode-543](Leetcode/0543.md)           |           |
+|          [Leetcode-226](Leetcode-226.md)           |           |
+|          [Leetcode-617](Leetcode-617.md)           |           |
+|          [Leetcode-112](Leetcode-112.md)           |           |
+|          [Leetcode-437](Leetcode-437.md)           |           |
+|          [Leetcode-101](Leetcode-101.md)           |           |
+|          [Leetcode-111](Leetcode-111.md)           |           |
+|          [Leetcode-404](Leetcode-404.md)           |           |
+|          [Leetcode-687](Leetcode-687.md)           |           |
 
 # 二分法
 
