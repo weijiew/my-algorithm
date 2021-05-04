@@ -131,19 +131,17 @@
 
 二叉查找树中序遍历有序。
 
-|              题目               | 难度  | 语言  |
-| :-----------------------------: | :---: | :---: |
-| [Leetcode-667](Leetcode-669.md) |   💗   |  C++  |
-| [Leetcode-230](Leetcode-230.md) |   💗   |  C++  |
-| [Leetcode-538](Leetcode-538.md) |   💗   |  C++  |
-| [Leetcode-235](Leetcode-235.md) |   💗   |  C++  |
-| [Leetcode-236](Leetcode-236.md) |   💗   |  C++  |
-| [Leetcode-108](Leetcode-108.md) |   💗   |  C++  |
-| [Leetcode-109](Leetcode-109.md) |   💗   |  C++  |
-| [Leetcode-653](Leetcode-653.md) |   💗   |  C++  |
-| [Leetcode-530](Leetcode-530.md) |   💗   |  C++  |
-| [Leetcode-501](Leetcode-501.md) |   💗   |  C++  |
-| [Leetcode-669](Leetcode-669.md) |   💗   |  C++  |
+1. [Leetcode-667](Leetcode-669.md)
+2. [Leetcode-230](Leetcode-230.md)
+3. [Leetcode-538](Leetcode-538.md)
+4. [235. 二叉搜索树的最近公共祖先](Leetcode/0235.md)
+5. [Leetcode-236](Leetcode-236.md)
+6. [108. 将有序数组转换为二叉搜索树](Leetcode/Leetcode-108.md)
+7. [Leetcode-109](Leetcode-109.md)
+8. [Leetcode-653](Leetcode-653.md)
+9. [Leetcode-530](Leetcode-530.md)
+10. [Leetcode-501](Leetcode-501.md)
+11. [Leetcode-669](Leetcode-669.md)
 
 ### Trie
 
@@ -152,4 +150,6 @@
 
 ### 树
 
-1. [](leetcode/0501.md)
+1. [501. 二叉搜索树中的众数](leetcode/0501.md) 暴力可以练习 Map 和 sort 。
+2. [235. 二叉搜索树的最近公共祖先](Leetcode/0235.md) 二叉搜索的性质。
+3. [108. 将有序数组转换为二叉搜索树](Leetcode/0108.md)
