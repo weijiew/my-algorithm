@@ -57,72 +57,60 @@
 ### 递归
 
 
-|                        题目                        |   语言    |
-| :------------------------------------------------: | :-------: |
-|      [🎯🎯🎯🎯🎯344. 反转字符串](Leetcode/0344.md)      |   Java    |
-|   [🎯🎯🎯🎯🎯21. 合并两个有序链表](Leetcode/0021.md)    |           |
-| [🎯🎯🎯🎯🎯 24. 两两交换链表中的节点](Leetcode/0024.md) | C++，Java |
-|     [104. 二叉树的最大深度](Leetcode/0104.md)      |   Java    |
-|      [🎯🎯🎯🎯🎯110. 平衡二叉树](Leetcode/0110.md)      |   Java    |
-|          [Leetcode-543](Leetcode/0543.md)           |           |
-|          [Leetcode-226](Leetcode-226.md)           |           |
-|          [Leetcode-617](Leetcode-617.md)           |           |
-|          [Leetcode-112](Leetcode-112.md)           |           |
-|          [Leetcode-437](Leetcode-437.md)           |           |
-|          [Leetcode-101](Leetcode-101.md)           |           |
-|          [Leetcode-111](Leetcode-111.md)           |           |
-|          [Leetcode-404](Leetcode-404.md)           |           |
-|          [Leetcode-687](Leetcode-687.md)           |           |
+1. [🎯🎯🎯🎯🎯344. 反转字符串](Leetcode/0344.md)
+2. [🎯🎯🎯🎯🎯21. 合并两个有序链表](Leetcode/0021.md)
+3. [🎯🎯🎯🎯🎯 24. 两两交换链表中的节点](Leetcode/0024.md)
+4. [104. 二叉树的最大深度](Leetcode/0104.md)
+5. [🎯🎯🎯🎯🎯110. 平衡二叉树](Leetcode/0110.md)
+6. [Leetcode-543](Leetcode/0543.md)
+7. [Leetcode-226](Leetcode-226.md)
+8. [617. 合并二叉树](Leetcode/0617.md) 
+9. [Leetcode-112](Leetcode-112.md)
+10. [Leetcode-437](Leetcode-437.md)
+11. [Leetcode-101](Leetcode-101.md)
+12. [Leetcode-111](Leetcode-111.md)
+13. [Leetcode-404](Leetcode-404.md)
+14. [Leetcode-687](Leetcode-687.md)
 
 ### 二分法
 
-|              题目               | 语言  |
-| :-----------------------------: | :---: |
-|  [Leetcode-69](Leetcode-69.md)  |       |  |
-| [Leetcode-540](Leetcode-540.md) |       |
-| [Leetcode-744](Leetcode-744.md) |       |
-| [Leetcode-540](Leetcode-540.md) |       |
-| [Leetcode-278](Leetcode-278.md) |       |
-| [Leetcode-153](Leetcode-153.md) |       |
-|  [Leetcode-34](Leetcode-34.md)  |       |
-| [Leetcode-704](Leetcode-704.md) |       |
-
+1. [Leetcode-69](Leetcode-69.md)
+2. [Leetcode-540](Leetcode-540.md)
+3. [Leetcode-744](Leetcode-744.md)
+4. [Leetcode-540](Leetcode-540.md)
+5. [Leetcode-278](Leetcode-278.md)
+6. [Leetcode-153](Leetcode-153.md)
+7. [Leetcode-34](Leetcode-34.md)
+8. [Leetcode-704](Leetcode-704.md)
 
 ### 哈希表
 
-|              题目               | 语言  |
-| :-----------------------------: | :---: |
-|   [Leetcode-1](Leetcode-1.md)   |       |
-| [Leetcode-217](Leetcode-217.md) |       |
-| [Leetcode-594](Leetcode-594.md) |       |
-| [Leetcode-128](Leetcode-128.md) |       |
-
+1. [Leetcode-1](Leetcode-1.md)
+2. [Leetcode-217](Leetcode-217.md)
+3. [Leetcode-594](Leetcode-594.md)
+4. [Leetcode-128](Leetcode-128.md)
 
 ### 位运算
 
-|            题目             | 语言  |
-| :-------------------------: | :---: |
-| [Leetcode-1](Leetcode-1.md) |       |
+1. [Leetcode-1](Leetcode-1.md)
 
 ### 遍历
 
-|              题目               | 语言  |
-| :-----------------------------: | :---: |
-| [Leetcode-144](Leetcode-144.md) |  C++  |
-| [Leetcode-145](Leetcode-145.md) |  C++  |
-|  [Leetcode-94](Leetcode-94.md)  |  C++  |
-| [Leetcode-637](Leetcode-637.md) |  C++  |
-| [Leetcode-513](Leetcode-513.md) |  C++  |
-| [Leetcode-100](Leetcode-100.md) |  C++  |
-| [Leetcode-101](Leetcode-101.md) |  C++  |
-| [Leetcode-543](Leetcode-543.md) |  C++  |
-| [Leetcode-226](Leetcode-226.md) |  C++  |
-| [Leetcode-617](Leetcode-617.md) |  C++  |
-| [Leetcode-112](Leetcode-112.md) |  C++  |
-| [Leetcode-637](Leetcode-637.md) |  C++  |
-| [Leetcode-513](Leetcode-513.md) |  C++  |
-| [Leetcode-617](Leetcode-617.md) |  C++  |
-| [Leetcode-617](Leetcode-617.md) |  C++  |
+1. [Leetcode-144](Leetcode-144.md) 
+2. [Leetcode-145](Leetcode-145.md) 
+3. [Leetcode-94](Leetcode-94.md) 
+4. [Leetcode-637](Leetcode-637.md)
+5. [Leetcode-513](Leetcode-513.md)
+6. [Leetcode-100](Leetcode-100.md)
+7. [Leetcode-101](Leetcode-101.md)
+8. [Leetcode-543](Leetcode-543.md)
+9. [Leetcode-226](Leetcode-226.md)
+10. [Leetcode-617](Leetcode-617.md)
+11. [Leetcode-112](Leetcode-112.md)
+12. [Leetcode-637](Leetcode-637.md)
+13. [Leetcode-513](Leetcode-513.md)
+14. [Leetcode-617](Leetcode-617.md)
+15. [Leetcode-617](Leetcode-617.md)
 
 
 ### BST
@@ -155,4 +143,7 @@
 3. [108. 将有序数组转换为二叉搜索树](Leetcode/0108.md)
 3. [106. 从中序与后序遍历序列构造二叉树](Leetcode/0106.md) 需要多练习！
 4. [105. 从前序与中序遍历序列构造二叉树](leetcode/0105.md) 搞定 106 这道题就很简单。
-5. [](leetcode/0654.md) 注意数据范围。
+5. [654. 最大二叉树](leetcode/0654.md) 简单题！注意优化。
+6. [617. 合并二叉树](Leetcode/0617.md) 递归练习！
+7. []() 
+
