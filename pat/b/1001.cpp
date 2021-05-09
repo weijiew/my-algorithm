@@ -1,8 +1,3 @@
-# 1001 害死人不偿命的(3n+1)猜想 (15 分)
-
-https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528
-
-```cpp
 #include <iostream>
 using namespace std;
 int main() {
@@ -19,4 +14,3 @@ int main() {
     cout << k << endl;
     return 0;
 }
-```
