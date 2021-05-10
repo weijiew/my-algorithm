@@ -1,8 +1,3 @@
-# 1004 成绩排名 (20 分)
-
-https://pintia.cn/problem-sets/994805260223102976/problems/994805321640296448
-
-```cpp
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -31,4 +26,3 @@ int main()
     cout << minname << " " << minnum;
     return 0;
 }
-```

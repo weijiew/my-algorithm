@@ -1,8 +1,3 @@
-# 1009 说反话 (20 分)
-
-https://pintia.cn/problem-sets/994805260223102976/problems/994805314941992960
-
-```cpp
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -25,4 +20,3 @@ int main() {
 
     return 0;
 }
-```

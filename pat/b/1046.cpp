@@ -1,11 +1,3 @@
-
-## B1046
-
-[1046 划拳 (15分)](https://pintia.cn/problem-sets/994805260223102976/problems/994805277847568384)
-
-* 注意是谁输了谁喝酒。
-
-```cpp
 #include <iostream>
 using namespace std;
 int main() {
@@ -24,4 +16,3 @@ int main() {
     cout << q << " " << p << endl;
     return 0;
 }
-```

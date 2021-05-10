@@ -1,14 +1,10 @@
-# 1008 数组元素循环右移问题 (20 分)
-
-https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808
-
-```cpp
 #include <iostream>
 using namespace std;
 int main() {
     int a[110];
     int n, m;
     cin >> n >> m;
+    // 要保证 m < n
     m = m % n;
 	for (int i = m; i < n; i ++) {
             cin >> a[i];
