@@ -9,6 +9,7 @@ int main() {
     for (int i = 0; i < len; i++) {
         cout << sum[i];
         if (sum[i] == '-') continue;
+        // 这个规律没有想到！
         if ((i + 1)%3 == len%3 && i != len - 1) cout << ",";
     }
     return 0;
